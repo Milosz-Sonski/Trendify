@@ -98,6 +98,12 @@ streamlit run dashboard.py
 
 ---
 
+## 🔁 Jak odtworzyć venv na innym komputerze?
+
+python -m venv venv
+source venv/bin/activate  # lub .\venv\Scripts\activate na Windows
+pip install -r requirements.txt
+
 ## 📝 Licencja
 
 Projekt edukacyjny. Możesz używać, modyfikować i rozszerzać.
