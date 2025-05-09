@@ -19,8 +19,10 @@ Trendify to aplikacja służąca do pobierania, zapisywania i analizowania popul
 ```
 Trendify/
 ├── .env                  # Dane API Spotify
+├── .gitignore            # Lista plików i folderów, których Git ma nie śledzić
 ├── main.py               # Pobieranie danych i zapis do MongoDB
 ├── dashboard.py          # Interaktywny dashboard Streamlit
+├── requirements.txt      # Lista bibliotek Pythona, których projekt potrzebuje
 └── README.md             # Dokumentacja projektu
 ```
 
